@@ -1,0 +1,140 @@
+{
+  "C32846": {
+    "courseId": "C32846",
+    "title": "stastics",
+    "description": "stastics1",
+    "instructorId": "U35166",
+    "lessons": [],
+    "students": [],
+    "status": "APPROVED"
+  },
+  "C85814": {
+    "courseId": "C85814",
+    "title": "prgramming2",
+    "description": "java",
+    "instructorId": "U35166",
+    "lessons": [
+      {
+        "lessonId": "L11577",
+        "title": "oop1",
+        "content": "oop1",
+        "resources": [],
+        "quizId": "Q53209",
+        "quiz": {
+          "quizID": "Q53209",
+          "name": "oop",
+          "questions": [
+            {
+              "QuestionId": "qu100610",
+              "content": "is oop good?",
+              "correctAnswer": "yes",
+              "options": [
+                "yes",
+                "no",
+                "maybe"
+              ]
+            },
+            {
+              "QuestionId": "qu101473",
+              "content": "is oop good for students?",
+              "correctAnswer": "yes",
+              "options": [
+                "yes",
+                "no",
+                "maybe"
+              ]
+            }
+          ],
+          "maxAttempts": 3
+        }
+      },
+      {
+        "lessonId": "L57042",
+        "title": "oop2",
+        "content": "oop2",
+        "resources": [
+          "facebook"
+        ],
+        "quizId": "Q78231",
+        "quiz": {
+          "quizID": "Q78231",
+          "name": "inheritance",
+          "questions": [
+            {
+              "QuestionId": "qu42115",
+              "content": "is inheritance good",
+              "correctAnswer": "yes",
+              "options": [
+                "yes",
+                "no"
+              ]
+            },
+            {
+              "QuestionId": "qu96523",
+              "content": "is polymorphism good",
+              "correctAnswer": "yes",
+              "options": [
+                "yes",
+                "no"
+              ]
+            },
+            {
+              "QuestionId": "qu54376",
+              "content": "am i good",
+              "correctAnswer": "yes",
+              "options": [
+                "yes",
+                "no"
+              ]
+            }
+          ],
+          "maxAttempts": 3
+        }
+      }
+    ],
+    "students": [
+      "U46383",
+      "U44709",
+      "U65362",
+      "U88604",
+      "U27916"
+    ],
+    "status": "APPROVED"
+  },
+  "C92010": {
+    "courseId": "C92010",
+    "title": "digital2",
+    "description": "digital2 content",
+    "instructorId": "U35166",
+    "lessons": [
+      {
+        "lessonId": "L84742",
+        "title": "digital2",
+        "content": "flipflops",
+        "resources": [
+          "flipflops book"
+        ],
+        "quizId": "Q38274",
+        "quiz": {
+          "quizID": "Q38274",
+          "name": "quiz 1 digital2",
+          "questions": [
+            {
+              "QuestionId": "qu33432",
+              "content": "mention any type of flipflops",
+              "correctAnswer": "jk flipflop",
+              "options": [
+                "D flipflops"
+              ]
+            }
+          ],
+          "maxAttempts": 3
+        }
+      }
+    ],
+    "students": [
+      "U88604"
+    ],
+    "status": "APPROVED"
+  }
+}

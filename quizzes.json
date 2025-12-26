@@ -1,0 +1,78 @@
+[
+  {
+    "quizID": "Q53209",
+    "name": "oop",
+    "questions": [
+      {
+        "QuestionId": "qu100610",
+        "content": "is oop good?",
+        "correctAnswer": "yes",
+        "options": [
+          "yes",
+          "no",
+          "maybe"
+        ]
+      },
+      {
+        "QuestionId": "qu101473",
+        "content": "is oop good for students?",
+        "correctAnswer": "yes",
+        "options": [
+          "yes",
+          "no",
+          "maybe"
+        ]
+      }
+    ],
+    "maxAttempts": 3
+  },
+  {
+    "quizID": "Q78231",
+    "name": "inheritance",
+    "questions": [
+      {
+        "QuestionId": "qu42115",
+        "content": "is inheritance good",
+        "correctAnswer": "yes",
+        "options": [
+          "yes",
+          "no"
+        ]
+      },
+      {
+        "QuestionId": "qu96523",
+        "content": "is polymorphism good",
+        "correctAnswer": "yes",
+        "options": [
+          "yes",
+          "no"
+        ]
+      },
+      {
+        "QuestionId": "qu54376",
+        "content": "am i good",
+        "correctAnswer": "yes",
+        "options": [
+          "yes",
+          "no"
+        ]
+      }
+    ],
+    "maxAttempts": 3
+  },
+  {
+    "quizID": "Q38274",
+    "name": "quiz 1 digital2",
+    "questions": [
+      {
+        "QuestionId": "qu33432",
+        "content": "mention any type of flipflops",
+        "correctAnswer": "jk flipflop",
+        "options": [
+          "D flipflops"
+        ]
+      }
+    ],
+    "maxAttempts": 3
+  }
+]

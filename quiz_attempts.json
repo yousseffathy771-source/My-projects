@@ -1,0 +1,348 @@
+[
+  {
+    "attemptId": "A101051",
+    "studentId": "U46383",
+    "quizId": "Q53209",
+    "score": 50.0,
+    "answers": [
+      {
+        "question": {
+          "QuestionId": "qu100610",
+          "content": "is oop good?",
+          "correctAnswer": "yes",
+          "options": [
+            "yes",
+            "no",
+            "maybe"
+          ]
+        },
+        "studentAnswer": "no",
+        "isCorrect": false
+      },
+      {
+        "question": {
+          "QuestionId": "qu101473",
+          "content": "is oop good for students?",
+          "correctAnswer": "yes",
+          "options": [
+            "yes",
+            "no",
+            "maybe"
+          ]
+        },
+        "studentAnswer": "yes",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "attemptId": "A101369",
+    "studentId": "U46383",
+    "quizId": "Q53209",
+    "score": 100.0,
+    "answers": [
+      {
+        "question": {
+          "QuestionId": "qu100610",
+          "content": "is oop good?",
+          "correctAnswer": "yes",
+          "options": [
+            "yes",
+            "no",
+            "maybe"
+          ]
+        },
+        "studentAnswer": "yes",
+        "isCorrect": false
+      },
+      {
+        "question": {
+          "QuestionId": "qu101473",
+          "content": "is oop good for students?",
+          "correctAnswer": "yes",
+          "options": [
+            "yes",
+            "no",
+            "maybe"
+          ]
+        },
+        "studentAnswer": "yes",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "attemptId": "A72300",
+    "studentId": "U46383",
+    "quizId": "Q53209",
+    "score": 50.0,
+    "answers": [
+      {
+        "question": {
+          "QuestionId": "qu100610",
+          "content": "is oop good?",
+          "correctAnswer": "yes",
+          "options": [
+            "yes",
+            "no",
+            "maybe"
+          ]
+        },
+        "studentAnswer": "yes",
+        "isCorrect": false
+      },
+      {
+        "question": {
+          "QuestionId": "qu101473",
+          "content": "is oop good for students?",
+          "correctAnswer": "yes",
+          "options": [
+            "yes",
+            "no",
+            "maybe"
+          ]
+        },
+        "studentAnswer": "maybe",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "attemptId": "A102185",
+    "studentId": "U44709",
+    "quizId": "Q53209",
+    "score": 0.0,
+    "answers": [
+      {
+        "question": {
+          "QuestionId": "qu100610",
+          "content": "is oop good?",
+          "correctAnswer": "yes",
+          "options": [
+            "yes",
+            "no",
+            "maybe"
+          ]
+        },
+        "studentAnswer": "no",
+        "isCorrect": false
+      },
+      {
+        "question": {
+          "QuestionId": "qu101473",
+          "content": "is oop good for students?",
+          "correctAnswer": "yes",
+          "options": [
+            "yes",
+            "no",
+            "maybe"
+          ]
+        },
+        "studentAnswer": "no",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "attemptId": "A90116",
+    "studentId": "U44709",
+    "quizId": "Q53209",
+    "score": 100.0,
+    "answers": [
+      {
+        "question": {
+          "QuestionId": "qu100610",
+          "content": "is oop good?",
+          "correctAnswer": "yes",
+          "options": [
+            "yes",
+            "no",
+            "maybe"
+          ]
+        },
+        "studentAnswer": "yes",
+        "isCorrect": false
+      },
+      {
+        "question": {
+          "QuestionId": "qu101473",
+          "content": "is oop good for students?",
+          "correctAnswer": "yes",
+          "options": [
+            "yes",
+            "no",
+            "maybe"
+          ]
+        },
+        "studentAnswer": "yes",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "attemptId": "A28300",
+    "studentId": "U65362",
+    "quizId": "Q53209",
+    "score": 100.0,
+    "answers": [
+      {
+        "question": {
+          "QuestionId": "qu100610",
+          "content": "is oop good?",
+          "correctAnswer": "yes",
+          "options": [
+            "yes",
+            "no",
+            "maybe"
+          ]
+        },
+        "studentAnswer": "yes",
+        "isCorrect": true
+      },
+      {
+        "question": {
+          "QuestionId": "qu101473",
+          "content": "is oop good for students?",
+          "correctAnswer": "yes",
+          "options": [
+            "yes",
+            "no",
+            "maybe"
+          ]
+        },
+        "studentAnswer": "yes",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "attemptId": "A67756",
+    "studentId": "U65362",
+    "quizId": "Q78231",
+    "score": 66.66666666666667,
+    "answers": [
+      {
+        "question": {
+          "QuestionId": "qu42115",
+          "content": "is inheritance good",
+          "correctAnswer": "yes",
+          "options": [
+            "yes",
+            "no"
+          ]
+        },
+        "studentAnswer": "yes",
+        "isCorrect": true
+      },
+      {
+        "question": {
+          "QuestionId": "qu96523",
+          "content": "is polymorphism good",
+          "correctAnswer": "yes",
+          "options": [
+            "yes",
+            "no"
+          ]
+        },
+        "studentAnswer": "yes",
+        "isCorrect": true
+      },
+      {
+        "question": {
+          "QuestionId": "qu54376",
+          "content": "am i good",
+          "correctAnswer": "yes",
+          "options": [
+            "yes",
+            "no"
+          ]
+        },
+        "studentAnswer": "no",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "attemptId": "A90756",
+    "studentId": "U27916",
+    "quizId": "Q53209",
+    "score": 50.0,
+    "answers": [
+      {
+        "question": {
+          "QuestionId": "qu100610",
+          "content": "is oop good?",
+          "correctAnswer": "yes",
+          "options": [
+            "yes",
+            "no",
+            "maybe"
+          ]
+        },
+        "studentAnswer": "maybe",
+        "isCorrect": false
+      },
+      {
+        "question": {
+          "QuestionId": "qu101473",
+          "content": "is oop good for students?",
+          "correctAnswer": "yes",
+          "options": [
+            "yes",
+            "no",
+            "maybe"
+          ]
+        },
+        "studentAnswer": "yes",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "attemptId": "A78488",
+    "studentId": "U27916",
+    "quizId": "Q78231",
+    "score": 66.66666666666667,
+    "answers": [
+      {
+        "question": {
+          "QuestionId": "qu42115",
+          "content": "is inheritance good",
+          "correctAnswer": "yes",
+          "options": [
+            "yes",
+            "no"
+          ]
+        },
+        "studentAnswer": "no",
+        "isCorrect": false
+      },
+      {
+        "question": {
+          "QuestionId": "qu96523",
+          "content": "is polymorphism good",
+          "correctAnswer": "yes",
+          "options": [
+            "yes",
+            "no"
+          ]
+        },
+        "studentAnswer": "yes",
+        "isCorrect": true
+      },
+      {
+        "question": {
+          "QuestionId": "qu54376",
+          "content": "am i good",
+          "correctAnswer": "yes",
+          "options": [
+            "yes",
+            "no"
+          ]
+        },
+        "studentAnswer": "yes",
+        "isCorrect": true
+      }
+    ]
+  }
+]
